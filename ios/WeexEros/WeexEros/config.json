@@ -1,0 +1,44 @@
+{
+    "appName": "newsDemo",
+    "version": {
+        "android": "0.0.0",
+        "iOS": "0.0.0"
+    },
+    "page": {
+        "homePage": "/pages/yanxuanDemo/index.js",
+        "mediatorPage": "/pages/meditor/index.js",
+        "navBarColor": "#ffffff",
+        "navItemColor": "#333"
+    },
+    "url": {
+        "request": "http://fe.benmu-health.com",
+        "jsServer": "http://fe.benmu-health.com",
+        "image": "https://lev-inf.benmu-health.com/test/xxx"
+    },
+    "zipFolder": {
+        "server": "/Users/yangmingzhe/Work/opensource/eros-diff-folder",
+        "iOS": "/ios/WeexEros/WeexEros",
+        "android": "/android/WeexFrameworkWrapper/app/src/main/assets"
+    },
+    "getui": {
+        "enabled": "false",
+        "appId": "",
+        "appKey": "",
+        "appSecret": ""
+    },
+    "umeng": {
+        "enabled": "false",
+        "iOSAppKey": "",
+        "androidAppKey": ""
+    },
+    "wechat": {
+        "enabled": "false",
+        "appId": "",
+        "appSecret": ""
+    },
+    "amap": {
+        "enabled": "true",
+        "iOSAppKey": "623c0396a9b879461c971a14baa678fb",
+        "androidAppKey": ""
+    }
+}
